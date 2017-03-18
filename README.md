@@ -1,4 +1,5 @@
 # ROM Features :
+
 - Volume Rocker Music Control
 - Statusbar Clock and Date Customizations
 - Statusbar Battery Customizations
@@ -21,6 +22,7 @@
 - F2FS 
 
 # Kernel Features :
+
 - IO Scheduler- Zen, Deadline, BFQ, CFQ
 - Governers - BluActive, ElementalX, Darkness, Impulse, CAF_Active+ Stock
 - TCP Algorithms - Westwood, Cubic, Reno, Veno, Scalable.
@@ -46,8 +48,8 @@
 
 # Optimizations :
 - Compiled with SD-Clang
-- O3 System wide
-- O3 and Graphite compiled Kernel with UberTC
+- O3, Linaro 6.3 for ROM
+- O3, Graphite & UberTC for Kernel
 - Qualcomm Boost Framework
 - CPU Boost Framework
 - FP unlock Boost
