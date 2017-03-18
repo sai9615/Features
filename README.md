@@ -44,7 +44,7 @@
 - USB - FastCharge
 - Energy Model Adaptations - MSM8996
 
-# Optimazions :
+# Optimizations :
 - Compiled with SD-Clang
 - O3 System wide
 - O3 and Graphite compiled Kernel with UberTC
